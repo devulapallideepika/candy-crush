@@ -1,3 +1,5 @@
+# deploying candy-crush on aws using httpd
+
  - create an ec2 instance and connect to git bash terminal.
 
  - Allow the inbound rule of security group with port range 80. As http by default runs on port 80.
